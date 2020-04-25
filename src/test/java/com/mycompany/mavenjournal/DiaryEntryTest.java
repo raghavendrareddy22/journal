@@ -52,19 +52,7 @@ public class DiaryEntryTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setTitle method, of class DiaryEntry.
-     */
 
-
-    /**
-     * Test of getDate method, of class DiaryEntry.
-     */
-
-
-    /**
-     * Test of getBodyText method, of class DiaryEntry.
-     */
     @Test
     public void testGetBodyText() {
         System.out.println("getBodyText");
